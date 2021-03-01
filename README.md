@@ -1,0 +1,1 @@
+# phpstan-disallowed-calls-nette
